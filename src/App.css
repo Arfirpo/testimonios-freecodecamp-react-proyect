@@ -33,6 +33,7 @@ h1{
 .main-container{
   min-height: 600px;
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
