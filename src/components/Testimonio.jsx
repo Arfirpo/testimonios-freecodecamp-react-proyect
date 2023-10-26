@@ -1,4 +1,4 @@
-import React from 'react'
+import '../css/Testimonio.css';
 
 export const Testimonio = ({img, name, charge, testimony}) => {
   return (
